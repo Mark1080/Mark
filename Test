@@ -1,3 +1,9 @@
 test
 test1
 test2
+git status 查询当前代码的状态
+git add .
+git commit -m 'shop bug修改'
+git push origin feature_coupon 推送当前的代码到git上面
+git pull origin develop 把 develop 的代码合并到当前分支
+git clone 'url' 拉取服务端密码
